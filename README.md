@@ -24,7 +24,7 @@ To get started with the project locally, follow the steps:
 - Run the application locally using `npm run dev`.
 
 **Login Credentials**  [username, password]
-- Admin Panel - [ admin@email.com, 123456 ]
+- Admin Panel - [ admin@email.com, 1234 ]
 
 We encourage open discussions, bug reporting, and feature requests through issues and pull requests.
 
