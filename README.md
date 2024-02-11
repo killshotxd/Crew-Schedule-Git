@@ -23,4 +23,20 @@ To get started with the project locally, follow the steps:
 - Install dependencies using `npm install`.
 - Run the application locally using `npm run dev`.
 
+**Login Credentials**  [username, password]
+- Admin Panel - [ admin@email.com, 123456 ]
+
 We encourage open discussions, bug reporting, and feature requests through issues and pull requests.
+
+
+## Tech Stack
+
+**Client:** React Js, Axios, Vis-Timeline, DaisyUI, TailwindCSS
+
+**Server:** Node, Express, Google Sheet API
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at hassanansari211@gmail.com
+
